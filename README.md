@@ -1,4 +1,5 @@
 # AI2E-workshops
+<img src="assets/images/Cover.png" alt="Cover" title="AI2E Cover" />
 This repository includes material relating to the online program AI Everytime Everywhere (AI2E) of School of AI Algiers.  It consists of a bunch of tutorial notebooks for various machine learning and deep learning topics. In these tutorials, we will guide you through the different steps of creating a machine learning application, from collecting the data to choosing the model and finally deploying it. 
 
 During this journey, you'll discover many ML concepts and practice your acquired knowledge through different challenges and exercises. 
