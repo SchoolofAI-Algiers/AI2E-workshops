@@ -6,6 +6,11 @@ During this journey, you'll discover many ML concepts and practice your acquired
 
 ## Table of Content 
 
+### Week 1 : 
+1. [Discover the tools + Data Exploration (Part 1)](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/Discover_the_tools) 
+2. [Data Exploration](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/Data_exploration) 
+3. Linear/Logistic Regression (Part 1) 
+
 ## Dependencies 
 Although we will dedicate one workshop session to discovering the tools, this section helps you install all the necessary requirements to execute all the notebooks. 
 
