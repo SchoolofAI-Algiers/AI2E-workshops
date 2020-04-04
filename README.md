@@ -48,3 +48,5 @@ Note that the documentation of Anaconda is really useful, just check this [link]
 
 ## Authors 
 
+School of AI Algiers Team =) 
+
