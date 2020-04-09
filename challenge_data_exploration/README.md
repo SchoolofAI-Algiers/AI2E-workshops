@@ -1,6 +1,6 @@
 ## Challenge Description 
 This is the first challenge of AI2E. In this challenge, you're going to prove your data exploration skills and talents! 
-We collected the the covid-19 data from the different press releases published on the [Algerian ministery of Health website](http://covid19.sante.gov.dz/fr/point-de-situation-covid-2019-2/). 
+We collected the the covid-19 data from the different press releases published on the [Algerian ministry of Health website](http://covid19.sante.gov.dz/fr/point-de-situation-covid-2019-2/). 
 The task is simple :
 * Analyse the presented data. 
 * Handle the missing data. 
