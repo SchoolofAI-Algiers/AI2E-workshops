@@ -1,7 +1,7 @@
 # Presentation Plan
 
 1. Introduction
-2. Definition
+2. Definitions
   + Neurons
   + Connections
   + Layers
