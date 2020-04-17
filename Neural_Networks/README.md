@@ -1,7 +1,7 @@
 # Presentation Plan
 
 1. Introduction ==> Samir
-2. Definitions ==> Raouf
+2. Definitions ==> Samir
   + Neurons
   + Connections
   + Layers
