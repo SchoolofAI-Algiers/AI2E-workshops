@@ -11,7 +11,7 @@
   + Standard : Feed Forward
   + Images : CNN
   + Sequence Data (Voice, language) : RNN
-4. NN for :
+4. NN for : ==> Samir
   + Supervised 
     1. Structured Data
       * Spam Message
