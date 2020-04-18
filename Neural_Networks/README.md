@@ -7,7 +7,11 @@
   + Layers
   + Activation functions
   + Backpropagation
-3. NN for :
+3. Types of NN ==> Samir
+  + Standard : Feed Forward
+  + Images : CNN
+  + Sequence Data (Voice, language) : RNN
+4. NN for :
   + Supervised 
     1. Structured Data
       * Spam Message
@@ -18,8 +22,4 @@
       * Written Text
   + Unsupervised Learning
   + Reinforcement Learning
-4. Types of NN ==> Samir
-  + Standard : Adversiting...
-  + Images : CNN
-  + Sequence Data (Voice, language) : RNN
 5. Conclusion ==> Samir
