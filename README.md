@@ -9,7 +9,15 @@ During this journey, you'll discover many ML concepts and practice your acquired
 ### Week 1 : 
 1. [Discover the tools + Data Exploration (Part 1)](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/Discover_the_tools) 
 2. [Data Exploration](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/Data_exploration) 
-3. Linear/Logistic Regression (Part 1) 
+3. [General Machine learning Talk](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/General_Machine_Learning)
+4. [Linear/Logistic Regression (Part 1)](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/Linear_Regression)
+    * [Data Exploration Challenge](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/challenge_data_exploration)
+5. [Linear/Logistic Regression (Part 2)](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/WorkshopLogistic)
+6. [More Supervised Learning Models](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/More_Supervised_learning_algorithms)
+7. [Clustering](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/Clustering)
+8. [Neural Networks]()
+9. [Convolution Neural Networks](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/CNNs)
+10. [Style Transfer](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/Transfer_Learning)
 
 ## Dependencies 
 Although we will dedicate one workshop session to discovering the tools, this section helps you install all the necessary requirements to execute all the notebooks. 
