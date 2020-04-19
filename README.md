@@ -12,9 +12,11 @@ During this journey, you'll discover many ML concepts and practice your acquired
 3. [General Machine learning Talk](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/General_Machine_Learning)
 4. [Linear/Logistic Regression (Part 1)](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/Linear_Regression)
     * [Data Exploration Challenge](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/challenge_data_exploration)
+### Week 2 : 
 5. [Linear/Logistic Regression (Part 2)](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/WorkshopLogistic)
 6. [More Supervised Learning Models](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/More_Supervised_learning_algorithms)
 7. [Clustering](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/Clustering)
+### Week 3 : 
 8. [Neural Networks]()
 9. [Convolution Neural Networks](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/CNNs)
 10. [Style Transfer](https://github.com/SchoolofAI-Algiers/AI2E-workshops/tree/master/Transfer_Learning)
